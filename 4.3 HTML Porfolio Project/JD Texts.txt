@@ -1,0 +1,45 @@
+About Me: 
+About Me - John Kelimana
+
+Welcome to my portfolio! I am John Kelimana, a skilled professional with a Master's degree in Traffic Information Engineering and Control. Currently, I am proudly serving as the IT Manager for PNA Office (PNAO).
+
+Professional Experience
+
+As the IT Manager at PNAO, I am responsible for overseeing various critical aspects of the organization's IT infrastructure and security. Here are some of my key duties:
+
+IT Work-Point Management:
+I have successfully implemented Azure-AD and Device Management solutions for all IT work-points at PNAO. This has improved the overall efficiency and security of our IT systems.
+
+Mailbox Management:
+To enhance security and reduce risks, I led the migration of PNAO mailboxes to Exchange Online. This step not only improved audit capabilities but also helped mitigate SPAM and phishing threats.
+
+IT File Management:
+A significant part of my role involves reviewing and optimizing the usage of shared drives, NAS, and Google Drive. I devised a strategy to migrate core resources to manageable and auditable cloud storage platforms such as OneDrive and SharePoint.
+
+IT Risk Review:
+I conduct regular IT security risk assessments for each information system within PNAO. This ensures that potential vulnerabilities are identified and addressed proactively. Additionally, I review these assessments annually to stay on top of emerging risks.
+
+IT Hygiene:
+To minimize risks associated with IT hygiene, I have implemented automated management tools. These tools help maintain a secure and healthy IT environment for PNAO.
+
+User Awareness Training:
+In an effort to reduce the risk of end-user compromise, I have introduced regular online cyber-risk security training for all PNAO staff members. This ensures that our team remains vigilant and informed about potential security threats.
+
+Information System Risk Reporting:
+I prepare comprehensive reports on information system risks, presenting them to the CEO. These reports help the leadership team make informed decisions about the organization's IT security.
+
+Revision of IT Policies:
+I actively revise and update IT-related policies within the PNAO Policy Manual. These updates consider the latest technologies and ensure consistency with our Information Security Management System (ISMS).
+
+Progress Review on IT Tasks:
+As part of my role, I regularly review the progress made on IT-related recommendations and provide detailed reports to the CEO.
+
+Implement Information Security Policy:
+I am dedicated to implementing a robust Information Security Policy across all PNAO systems, safeguarding our valuable data and resources.
+
+Review of PNAO and FIMS Inc. Relationship:
+I am currently involved in reviewing the relationship and contractual arrangements between PNAO and FIMS Inc. This ensures that our collaborations are efficient and secure.
+
+Conclusion
+
+My passion for IT management and information security has enabled me to make significant contributions to PNA Office. I thrive on challenges and believe in staying ahead of the curve to protect our organization's digital assets. With a blend of technical expertise and strategic vision, I am committed to fostering a secure and technologically advanced environment at PNAO. Thank you for visiting my portfolio, and please feel free to contact me for any inquiries or opportunities.
