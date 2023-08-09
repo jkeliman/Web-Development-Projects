@@ -1,3 +1,8 @@
+img {
+    height: 200px;
+    width: 200px;
+  }
+
 #red{
     color:red;
   }
@@ -19,7 +24,10 @@
   .color-title{
     font-weight: normal;
 }
-img {
-    height: 200px;
-    width: 200px;
-  }
+
+#my-unique-id{
+    font-size: 40px;
+    font-weight: bold;
+    background-color: #d1cbb8;
+    display: block;
+      }
