@@ -20,8 +20,6 @@ p {
   color:green;
 }
 
-
-
 /* TODO 4: Set the CSS for the li elements that have the "value" attribute set to "4" to have "color: blue;" */
 li[value="4"] {
   color: blue;
