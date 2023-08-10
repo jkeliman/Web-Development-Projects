@@ -29,7 +29,13 @@ div{
         p{
           margin: 0;
         }
-
+        .parent {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+        }
+        .centered-div{
+        }
 
 </style>
 </head>
@@ -41,8 +47,11 @@ div{
   <div id="box2-div"></div>
   <div id="box3-div"></div>
 
-<div></div>
-<div></div>
+  <div class="parent">
+    <div class="centered-div">
+      This element is centered.
+    </div>
+  </div>
 
 
   <!-- TODOs:
