@@ -25,28 +25,28 @@ body {
  
  
 }
-
-
   .education {
     padding: 20px;
     margin: 15px;
     /* text-align: center; */
   }
 
-  .section {
-    background-color: #f9f9f9;
+  .top {
+    background-color: #eae0e0;
   }
   
   .flex-container {
     display: flex;
     justify-content: space-around;
     padding: 20px;
+    border-radius: 10px; 
   }
   
   .flex-container > div {
     width: 100px;
+    color: red;
     text-align: center;
     line-height: 75px;
-    font-size: 30px;
+    font-size: 20px;
   }
   
