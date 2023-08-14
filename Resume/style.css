@@ -3,7 +3,7 @@ body {
     font-family: "Libre Baskerville", Arial, sans-serif; margin: 40px;
    }       
    h1 { color: #333366; }
-        h2 { color: #666699; }
+        h2 { color: #b87625; }
         .section { margin-bottom: 30px; }
         .contact-form input, textarea { width: 100%; padding: 10px; margin: 10px 0; }
         .social-links { list-style-type: none; padding: 0; }
@@ -29,9 +29,9 @@ body {
   text-align: center;
 
 }
-  .education {
+  section.education {
     padding: 10px;
-    /* text-align: center; */
+   color:aquamarine;
   }
   .flex-container {
     display: flex;
@@ -47,7 +47,10 @@ body {
     line-height: 75px;
     font-size: 20px;
   }
-  
+ section.experience{
+  color: blue;
+  /* font-style:bold; */
+ } 
   /* Don't change the existing CSS. */
 #outer-box{
   background-color: purple;

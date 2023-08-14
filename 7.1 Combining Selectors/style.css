@@ -6,6 +6,14 @@ h1, h2{
 .box > p{
     color:firebrick;
 }
-.list ul{
+.box li{
     color: blue;
+}
+
+li.done{
+    color: seagreen;
+}
+
+ul p.done{
+    font-size: 0.5rem;
 }
